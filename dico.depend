@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484078344 source:d:\algorithmeprojects\dico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
